@@ -1,6 +1,8 @@
 # ⚡ Nguyễn Đặng Thành Thái (Owen)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3366&width=550&lines=Sinh+Viên+Đang+Học+Và+Tìm+Hiểu+Những+Thứ+Mới+Trong+Xu+Hướng+Lập+Trình...;Building+Digital+Twin+Systems)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,ff3366,5C2D91&height=200&section=header&text=Owen0107&fontSize=50&animation=twinkling" width="100%" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3366&width=850&lines=Sinh+Viên+Đang+Học+Và+Tìm+Hiểu+Công+Nghệ+Mới...;Full-Stack+%2B+3D+Web+Developer;Building+Digital+Twin+Systems)
 
 ---
 
@@ -23,9 +25,10 @@
 
 ### 📊 Thống Kê Hoạt Động
 
-![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Owen0107&show_icons=true&theme=radical&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Owen0107&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Owen0107&show_icons=true&theme=dark&brand_bold=true" alt="Owen Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen0107&layout=compact&theme=dark" alt="Top Langs" height="160" />
+</p>
 
 ---
 
@@ -34,4 +37,4 @@
 - 📍 Vị trí: Biên Hòa, Đồng Nai, Việt Nam
 
 ---
-![Views](https://komarev.com/counter/?username=Owen0107&color=ff3366&style=flat-square&label=PROFILE+VIEWS)
+<img src="https://komarev.com/counter/?username=Owen0107&color=ff3366&style=flat&label=PROFILE+VIEWS" />
