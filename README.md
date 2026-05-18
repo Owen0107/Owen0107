@@ -1,6 +1,6 @@
 # ⚡ Nguyễn Đặng Thành Thái (Owen)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3366&width=550&lines=Sinh+Viên+Đang+Học+Và+Hiểu+Code...;Full-Stack+%2B+3D+Web+Developer;Building+Digital+Twin+Systems)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3366&width=550&lines=Sinh+Viên+Đang+Học+Và+Tìm+Hiểu+Những+Thứ+Mới+Trong+Xu+Hướng+Lập+Trình...;Building+Digital+Twin+Systems)
 
 ---
 
