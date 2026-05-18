@@ -1,9 +1,5 @@
 # ⚡ Nguyễn Đặng Thành Thái (Owen)
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=FF3366&center=false&vCenter=false&width=550&lines=Sinh+Viên+Đang+Học+Và+Hiểu+Code...;Full-Stack+%2B+3D+Web+Developer;Building+Digital+Twin+Systems;Turning+Coffee+into+Interactive+Apps" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💫 Về Mình
@@ -30,14 +26,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owen0107&show_icons=true&theme=radical&rank_icon=github" alt="Owen0107 GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen0107&layout=compact&theme=radical" alt="Top Langs" height="180" />
-</p>
-
----
-
 ### 📬 Kết Nối Với Mình
-- 📧 Email: [thaindttb00919@fpt.edu.vn](mailto:thaindttb00919@fpt.edu.vn)
+- 📧 Email: [ndthanhthai.it@gmail.com](mailto:ndthanhthai.it@gmail.com)
 - 📍 Vị trí: Biên Hòa, Đồng Nai, Việt Nam
