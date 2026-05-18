@@ -1,8 +1,8 @@
 # ⚡ Nguyễn Đặng Thành Thái (Owen)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,ff3366,5C2D91&height=200&section=header&text=Owen0107&fontSize=50&animation=twinkling" width="100%" />
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3366&width=850&lines=Sinh+Viên+Đang+Học+Và+Tìm+Hiểu+Công+Nghệ+Mới...;Full-Stack+%2B+3D+Web+Developer;Building+Digital+Twin+Systems)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=OWEN%200107&textColor=%2300FFAB&fontSize=60&fontAlignY=45&desc=%E2%9A%A1%20Digital%20Twin&descColor=%23ffffff&descSize=16&descAlignY=75&animation=twinkling" width="100%" />
+</p>
 
 ---
 
@@ -23,11 +23,9 @@
 
 ---
 
-### 📊 Thống Kê Hoạt Động
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Owen0107&show_icons=true&theme=dark&brand_bold=true" alt="Owen Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Owen0107&layout=compact&theme=dark" alt="Top Langs" height="160" />
+### 📊 Hoạt Động & Thống Kê
+<p align="center">
+  <img src="https://github-profile-3d-contrib.lines.workers.dev/?username=Owen0107&theme=dark" alt="Owen0107's 3D Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -35,6 +33,3 @@
 ### 📬 Kết Nối Với Mình
 - 📧 Email: [ndthanhthai.it@gmail.com](mailto:ndthanhthai.it@gmail.com)
 - 📍 Vị trí: Biên Hòa, Đồng Nai, Việt Nam
-
----
-<img src="https://komarev.com/counter/?username=Owen0107&color=ff3366&style=flat&label=PROFILE+VIEWS" />
